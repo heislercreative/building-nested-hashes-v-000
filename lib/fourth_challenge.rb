@@ -22,7 +22,7 @@ def fourth_challenge
         :age => "30",
         :attitude => "confused"},
        {:name => "Nurse",
-        :age => "40",
+        :age => "44",
         :attitude => "worried"}
       ]
    }
